@@ -47,4 +47,6 @@ html, body {
 .active {
 	background: #6E757E;
 	color: #fff;
+	border-top: 1px solid #000;
+	border-bottom: 1px solid #000;
 }
